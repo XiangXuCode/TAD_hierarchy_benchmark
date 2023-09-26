@@ -11,4 +11,6 @@ In the `/callers`, we showed the implementation of all 13 TAD hierarchy callers 
 In the `/evaluation`, we implemented the Hier_SSIM of Fig.2b and the Overlap Ratio of Fig.4e. 
 In the `/visualization`, we implemented the visualization of Fig.2c.
 
+For input files of HiTAD, Arrowhead, Armatus, and matryoshka, please download from: [Rao2014-HMEC-MboI-allreps-filtered.50kb.cool.gz](https://drive.google.com/file/d/1SJNVMKQOfIVXWLhcpWazN-ADIoNB3gZk/view?usp=sharing) is input of HiTAD; [HMEC_combined_30.hic.gz](https://drive.google.com/file/d/1d8d4G_w_d_Y24ARilte-guJP9yT56kF-/view?usp=sharing) is input for Arrowhead; [GM12878_chr7_50kb.RAWobserved.gz](https://drive.google.com/file/d/1pz0-AmsE_RHXXdY7uLvgpBUVsomzLjfW/view?usp=sharing) is input for Armatus and matryoshka.
+
 Each method contains a file including the README file, input files, output files and its implementation on example inputs.
