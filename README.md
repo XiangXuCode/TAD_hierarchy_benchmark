@@ -5,6 +5,8 @@ We benchmarked 13 available callers detecting hierarchical TAD structures (TAD h
 
 ## implementation
 
+Download all the files, and decompress them.
+
 ```
 unzip *.zip
 ```
