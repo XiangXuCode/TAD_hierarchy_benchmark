@@ -17,7 +17,7 @@ Get into one folder, and gunzip all `.gz` files at all levels of directory. Like
 cd Armatus
 ```
 ```
-gunzip -r *.gz
+gunzip -r *
 ```
 
 To make folder tree clean, you can create a folder `callers/`. Then put all folders in it except `evaluation/` and `visualization/`. 
